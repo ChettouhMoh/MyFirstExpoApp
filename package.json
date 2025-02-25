@@ -1,5 +1,8 @@
 {
 	"dependencies": {
 		"expo-router": "^4.0.17"
+	},
+	"devDependencies": {
+		"prettier": "3.5.2"
 	}
 }
